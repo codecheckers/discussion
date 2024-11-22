@@ -1,5 +1,3 @@
-# CODE CHECK discussion
+❗ DEPRECATED ❗
 
-General discussions and questions about the project.
-
-https://codecheck.org.uk/
+# Please use the discussion forum at https://github.com/orgs/codecheckers/discussions
